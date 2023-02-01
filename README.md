@@ -1,11 +1,5 @@
 <h1>Sacola API</h1>
 <p>Sacola API para Servir uma Aplicação com Domínio de Delivery</p>
-<p align="center">
-<a href="https://docs.google.com/presentation/d/1O_lCZFiuU9MOsot-pJv2lb7kKrRs4ykW/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 1</a> ♥ 
-<a href="https://docs.google.com/presentation/d/14JDFLaWvK6KL_9ZxubRoBciWQ_aVcxd4/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 2</a> ♥
-<a href="https://docs.google.com/presentation/d/11rOmP1u7nwYv5mL4ovmquYMZWktPwIiJ/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 3</a> ♥ 
-<a href="https://docs.google.com/presentation/d/162KrAjBivpN4GKzPVwv7y-JcIPUnN1_h/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 4</a>
-</p>
 
 <h3>Status do Projeto</h3>
 <p align="center"> Sacola API 💻 Em construção... </p>
@@ -88,19 +82,6 @@ No Terminal/Console:
 </tr>
 </table>
 
-<h3>Autor</h3>
-
-<a href="https://www.linkedin.com/in/cami-la/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Camila Cavalcante</b></sub></a> <a href="https://www.instagram.com/camimi_la/" title="Instagram"></a>
-
-Feito com ❤️ por Cami-la 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cami-la/)](https://www.linkedin.com/in/cami-la/)
-[![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:camiladsantoscavalcante@gmail.com)
-<hr>
-<h3>Contribuindo</h3>
 
 Este repositório foi criado para fins de estudo, então contribua com ele.<br>
 Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar.
